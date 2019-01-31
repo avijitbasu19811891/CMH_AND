@@ -3,7 +3,6 @@
 //  CMH_AND
 //
 //  Created by Avijit Basu on 06/11/18.
-//  Copyright © 2018 Juniper. All rights reserved.
 //
 
 #ifndef Node_hpp
