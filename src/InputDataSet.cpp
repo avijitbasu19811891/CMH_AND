@@ -3,7 +3,6 @@
 //  SuzukiKasamiAlgo
 //
 //  Created by Avijit Basu on 05/11/18.
-//  Copyright © 2018 Juniper. All rights reserved.
 //
 
 #include "InputDataSet.hpp"
